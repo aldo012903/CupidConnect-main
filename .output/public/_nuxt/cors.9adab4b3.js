@@ -1,0 +1,1 @@
+function s({req:o,res:t,next:e}){t.setHeader("Access-Control-Allow-Origin","http://localhost:8000,http://localhost:3000,https://23.20.92.32:8000,https://23.20.92.32:3000"),t.setHeader("Access-Control-Allow-Methods","GET,POST,OPTIONS,PUT,PATCH,DELETE"),t.setHeader("Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"),e()}export{s as default};

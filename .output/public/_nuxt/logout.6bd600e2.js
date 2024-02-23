@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{b as t,e as a,t as s,o as _}from"./entry.452b7f3a.js";import"./swiper-vue.05a5116d.js";const r={data(){return{message:"you have logged out"}}};function n(c,l,p,u,e,d){return _(),t("div",null,[a("h1",null,"Hello, "+s(e.message),1)])}const g=o(r,[["render",n],["__scopeId","data-v-b5aaef54"]]);export{g as default};
