@@ -20,5 +20,7 @@ Tailwind CSS: A utility-first CSS framework for rapid UI development, enabling u
 Bootstrap: Integrated for comprehensive UI components and layouts, enhancing the overall design and user interface.
 Backend:
 
+Backend:
+
 Node.js: Our server-side logic is powered by Node.js, providing a scalable and efficient backend structure.
 MongoDB: Chosen for our database needs, MongoDB offers flexibility and scalability, perfect for handling our dynamic user data and interactions.
